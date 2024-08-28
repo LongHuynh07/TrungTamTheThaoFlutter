@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618347610054",
+    "project_id": "trungtamthethao-75932",
+    "storage_bucket": "trungtamthethao-75932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618347610054:android:fe34fc0711709f806abcc7",
+        "android_client_info": {
+          "package_name": "com.example.trungtamthethao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAesdg7_X2rUc3gq9Vv7QrLHlfcm1c_Leo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
